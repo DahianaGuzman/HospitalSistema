@@ -1,6 +1,6 @@
 # Sistema Hospital
 
-Sistema de gestión hospitalaria desarrollado en **C# (.NET)** con arquitectura en capas, aplicando principios de **Programación Orientada a Objetos**: herencia, encapsulamiento, polimorfismo e interfaces. La persistencia de datos se maneja con archivos **CSV** usando la librería **CsvHelper**.
+#### Sistema de gestión hospitalaria desarrollado en **C# (.NET)** con arquitectura en capas, aplicando principios de **Programación Orientada a Objetos**: herencia, encapsulamiento, polimorfismo e interfaces. La persistencia de datos se maneja con archivos **CSV** usando la librería **CsvHelper**.
 ---
 
 ## Descripción general
