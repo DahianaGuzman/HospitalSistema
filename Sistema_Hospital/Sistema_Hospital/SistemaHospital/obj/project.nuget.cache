@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RXr9p3HDSZI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DOCENTES\\Desktop\\Sistema_Hospital\\Sistema_Hospital\\SistemaHospital\\SistemaHospital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DOCENTES\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
